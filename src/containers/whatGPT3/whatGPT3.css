@@ -84,7 +84,7 @@
       -ms-flex: 1;
           flex: 1;
   margin: 1rem;
-  min-width: 210px;
+  width: 100%;
   display: unset;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;

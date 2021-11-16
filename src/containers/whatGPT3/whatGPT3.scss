@@ -58,6 +58,7 @@
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
+    
 
     margin: 4rem 0 2rem;
 
@@ -100,7 +101,7 @@
 .gpt3__whatgpt3-container .gpt3__features-container__feature {
     flex: 1;
     margin: 1rem;
-    min-width: 210px;
+    width: 100%;
     display: unset;
     flex-direction: column;
 }
